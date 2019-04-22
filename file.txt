@@ -1,2 +1,3 @@
 hungry
+drink milk
 eat dosa
